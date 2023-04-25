@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147173148359",
+    "project_id": "burnproject-b79ba",
+    "storage_bucket": "burnproject-b79ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147173148359:android:bb0b19950621aa990fe0e2",
+        "android_client_info": {
+          "package_name": "com.example.BurnProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147173148359-6pjpc15hlid7mohddll60bo8c17a7jvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5Jc9YSZoUM6IDxs_y-T_KdRO4QQ4FTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147173148359-6pjpc15hlid7mohddll60bo8c17a7jvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

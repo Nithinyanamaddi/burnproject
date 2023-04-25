@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BurnProject</string>
+    <string name="login">Login</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <string name="reenterpassword">Re-Enter Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="name">Name*</string>
+    <string name="age">Age*</string>
+    <string name="weight">Weight*</string>
+    <string name="time">Approximate time from burn*</string>
+    <string name="result">Result</string>
+    <string name="cause">Cause of Burn</string>
+    <string name="medical">Medical History</string>
+    <string name="fluidresult">Calculate Fluid &amp; Burn %</string>
+
+
+</resources>
